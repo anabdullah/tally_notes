@@ -947,7 +947,80 @@
 
 
       </div>
-      <div class="box mt-3"></div>
+      <div class="box mt-3">
+        <h3>Q27. How to make POS [Point of sale] voucher with GST?</h3>
+<div class="optional">
+  Do the necessary configuration for GST and create Intra-state Sales Ledger, CGST and SGST ledgers.
+</div>
+<p>Go to Accounts info in Gateway of tally menu and then go to Voucher Types then Create.</p>
+<p>Type POS in the name field.</p>
+<p>Select Type of voucher: Sales, Abbreviation: POS</p>
+<p>Print voucher after saving: Yes, Use for POS invoicing: Yes</p>
+<p>On the Name of class, type POS, a new window will appear.</p>
+<p>Do the same as shown below and accept.</p>
+
+<div class="img mt-3" style="display: flex; width: 100%">
+  <img
+    style="margin: auto; border-right: 2px solid orange; width: 60%"
+    src="https://images.unsplash.com/photo-1696590443392-132e756a63f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    alt="Inter-State-purchase"
+    draggable="false"
+  />
+</div>
+<div class="mt-3"></div>
+<p>Now go to Accounting voucher and press F8 and choose POS.</p>
+<p>Choose Party name [Sundry Debtor] and select or create stock item</p>
+<p>Enter rate and quantity of the Items. </p>
+<p>Then accept the voucher</p>
+
+      </div>
+
+
+      <div class="shaded mt-3">
+        <h1 style="text-align: center;">Understanding TDS</h1>
+<div class="optional">
+  <b>Definition</b>: Tax Deducted at Source (TDS) is a system of collecting income tax in India. Under this system, the person making a payment (the deductor) is required to deduct tax from the amount payable to the recipient (the deductee) and deposit it with the government. The deductor is required to issue a TDS certificate to the deductee, which shows the amount of tax deducted.
+</div>
+<div class="mt-3"></div>
+<span class="title"><b>Why</b></span>
+<p>
+  TDS is a way of ensuring that tax is paid on income at the earliest possible opportunity. This helps to prevent tax evasion and to ensure that the government receives the tax revenue it is due.
+</p>
+<div class="mt-3"></div>
+<span class="title"><b>When</b></span>
+<p>
+  TDS is applicable on a variety of payments, including salaries, rent, interest, dividends, and professional fees. The TDS rates vary depending on the type of payment and the income of the deductee.
+</p>
+<div class="mt-3"></div>
+<span class="title"><b>Where</b></span>
+<p>
+  TDS is deducted by the deductor at the time of making the payment. The deductor is required to deposit the TDS with the government within a specified time period.
+</p>
+<div class="mt-3"></div>
+<span class="title"><b>How</b></span>
+<p>
+  The deductor is required to deduct TDS at the prescribed rates and deposit it with the government. The deductor is also required to issue a TDS certificate to the deductee, which shows the amount of tax deducted.
+</p>
+<div class="mt-3"></div>
+<span class="title"><b>Here are some of the benefits of TDS:</b></span>
+<p>It helps to prevent tax evasion.</p>
+<p>It ensures that the government receives the tax revenue it is due.</p>
+<p>It simplifies the tax filing process for taxpayers.</p>
+<p>It reduces the workload of the tax department.</p>
+<div class="mt-3"></div>
+<span class="title"><b>Here are some of the common TDS deductions:</b></span>
+<p>Salary</p>
+<p>Rent</p>
+<p>Interest</p>
+<p>Dividends</p>
+<p>Professional fees</p>
+<p>Commissions</p>
+<p>Bonuses</p>
+<p>Royalties</p>
+<p>Sale of assets</p>
+<p>Winnings from lotteries, horse races, and other games of chance</p>
+
+      </div>
       <div class="box mt-3"></div>
       <div class="box mt-3"></div>
       <div class="box mt-3"></div>
