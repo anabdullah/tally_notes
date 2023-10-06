@@ -40,14 +40,29 @@
   margin-top: 3vmin;
 }
 .note{
-  color: rgb(221, 66, 66);
-  margin: 1.2vmin 0;
+  background: rgb(221, 0, 0);
+  margin: 1vmin 0;
+  padding:0.8vmin 1.2vmin;
+  border-radius:4px;
+  color: white;
 }
 
+.optional{
+  background: rgb(246, 223, 181);
+  margin: 1vmin 0;
+  padding:0.8vmin 1.2vmin;
+  border-radius:4px;
+  color: rgb(180, 81, 0);
+  border:0.5px solid rgb(248, 223, 175);
+}
 .sub-note
 {
-  color: rgb(0, 130, 182);
+  color: rgb(0, 94, 182);
+  background: rgb(246, 250, 246);
+  border: 0.5px solid rgb(231, 231, 231);
   margin: 1.2vmin 0; 
+  padding:0.8vmin 1.2vmin;
+  border-radius:4px;
 }
 .dfx
 {display: flex;}
@@ -95,6 +110,8 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   display: flex;
+  scroll-behavior: smooth;
+  scrollbar-width:6px;
 }
 
 img,
