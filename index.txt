@@ -1279,7 +1279,7 @@
       <div class="mt-3"></div>
       <p>Then, in the Payroll info menu, go to Pay Heads →Create following</p>
 
-<!-- basic salary PH -->
+      <!-- basic salary PH -->
       <div class="box mt-3 ph-box">
         <h2>Basic Salary</h2>
         <p>Pay Head Type: Earnings for employees</p>
@@ -1291,7 +1291,7 @@
         <p>Calculation Period: Months, Basis of calculation: As per calendar period</p>
         <p></p>
       </div>
-<!-- Dearness Allowance PH -->
+      <!-- Dearness Allowance PH -->
       <div class="box mt-3 ph-box">
         <h2>Dearness Allowance</h2>
         <p>Pay Head Type: Earnings for employees</p>
@@ -1332,14 +1332,144 @@
           </table>
         </div>
       </div>
-<!-- Travelling Allowance PH -->
-<div class="box mt-3 ph-box">
-  <h2>Travelling Allowance</h2>
- <p>Pay Head Type: Earnings for employees</p>
- <p>Income Type: Fixed, Under: Indirect Expenses</p>
- <p>Calculation Type: As Computed Value, </p>
- <p>Calculation Period: Months</p>
- <p>Basis of calculation: As per calendar period, Compute: On Current Earnings Total</p>
+      <!-- Travelling Allowance PH -->
+      <div class="box mt-3 ph-box">
+        <h2>Travelling Allowance</h2>
+        <p>Pay Head Type: Earnings for employees</p>
+        <p>Income Type: Fixed, Under: Indirect Expenses</p>
+        <p>Calculation Type: As Computed Value, </p>
+        <p>Calculation Period: Months</p>
+        <p>Basis of calculation: As per calendar period, Compute: On Current Earnings Total</p>
+
+        <div class="table">
+          <table class="ph-table">
+            <tr class="head">
+              <td>Effective from</td>
+              <td>Amount Greater Than</td>
+              <td>Amount Up to</td>
+              <td>Slab type</td>
+              <td>Value</td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                1-Apr-23
+              </td>
+              <td></td>
+              <td>30,000</td>
+              <td>Percentage</td>
+              <td>1%</td>
+            </tr>
+            <tr>
+              <td>30,000</td>
+              <td>50,000</td>
+              <td>Percentage</td>
+              <td>2%</td>
+            </tr>
+            <tr>
+              <td>50,000</td>
+              <td></td>
+              <td>Percentage</td>
+              <td>3%</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="box mt-3 ph-box">
+        <h2>House Rent Allowance</h2>
+        <p>Pay Head Type: Earnings for employees, </p>
+        <p>Income Type: Fixed, Under: Indirect Expenses</p>
+        <p>Calculation Type: As Computed Value, Calculation Period: Months,</p>
+        <p>Compute: On Current Earnings Total</p>
+        <div class="table">
+          <table class="ph-table">
+            <tr class="head">
+              <td>Effective from</td>
+              <td>Amount Greater Than</td>
+              <td>Amount Up to</td>
+              <td>Slab type</td>
+              <td>Value</td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                1-Apr-23
+              </td>
+              <td></td>
+              <td>30,000</td>
+              <td>Value</td>
+              <td>750</td>
+            </tr>
+            <tr>
+              <td>30,000</td>
+              <td>50,000</td>
+              <td>Value</td>
+              <td>1500</td>
+            </tr>
+            <tr>
+              <td>50,000</td>
+              <td></td>
+              <td>Value</td>
+              <td>2500</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="box mt-3 ph-box">
+        <h2>Overtime PH</h2>
+        <p>Pay Head Type: Earnings for employees</p>
+        <p>Income Type: Fixed, Under: Indirect Expenses</p>
+        <p>Calculation Type: Flat Rate, </p>
+        <p>Calculation Period: Months</p>
+
+      </div>
+
+      <div class="box mt-3 ph-box">
+        <h2>Provident Fund</h2>
+        <p>Pay Head Type: Deduction from employees,</p>
+        <p>Under: Current Liabilities</p>
+        <p>Calculation Type: As computed Value, Calculation Period: Months </p>
+
+        <div class="table">
+          <table class="ph-table">
+            <tr class="head">
+              <td>Effective from</td>
+              <td>Amount Greater Than</td>
+              <td>Amount Up to</td>
+              <td>Slab type</td>
+              <td>Value</td>
+            </tr>
+            <tr>
+              <td rowspan="3">
+                1-Apr-23
+              </td>
+              <td></td>
+              <td>30,000</td>
+              <td>Percentage</td>
+              <td>1.5%</td>
+            </tr>
+            <tr>
+              <td>30,000</td>
+              <td>50,000</td>
+              <td>Percentage</td>
+              <td>2.5%</td>
+            </tr>
+            <tr>
+              <td>50,000</td>
+              <td></td>
+              <td>Percentage</td>
+              <td>4%</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+      <div class="box mt-3 ph-box">
+        <h2>Professional Tax</h2>
+<p>Pay Head Type: Deduction from employees,</p>
+<p>Under: Duties & Taxes</p>
+<p>Calculation Type: As computed Value,</p>
+<p>Calculation Period: Months</p>
 
 <div class="table">
   <table class="ph-table">
@@ -1357,7 +1487,7 @@
       <td></td>
       <td>30,000</td>
       <td>Percentage</td>
-      <td>1%</td>
+      <td>0.5%</td>
     </tr>
     <tr>
       <td>30,000</td>
@@ -1369,12 +1499,16 @@
       <td>50,000</td>
       <td></td>
       <td>Percentage</td>
-      <td>3%</td>
+      <td>5%</td>
     </tr>
   </table>
 </div>
-</div>
 
+      </div>
+      <div class="mt-3"></div>
+
+      <p>Now, In the Payroll info menu, go to salary Details → Define </p>
+      <p>Select the Employee name or the group. Then do the same as shown below-</p>
     </div>
     <div class="box mt-3"></div>
   </div>
