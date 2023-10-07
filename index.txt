@@ -1021,8 +1021,61 @@
 <p>Winnings from lotteries, horse races, and other games of chance</p>
 
       </div>
-      <div class="box mt-3"></div>
-      <div class="box mt-3"></div>
+      <div class="shaded mt-3">
+        <div class="dfx jcc gap-3 alc">
+          <h2>TDS Configuration</h2>
+          <img width="5%" style="border-radius: 50%;" src="https://www.iconbunny.com/icons/media/catalog/product/6/3/635.9-configuration-icon-iconbunny.jpg" alt="setting icon">
+        </div>
+<p>Press F11 and go to Statury & taxation.</p>
+<p>Enable the ‘Enable TDS (tax Deducted at Source)’ option.</p>
+<p>Enable ‘Set/alter TDS Details’. A new window will appear. </p>
+<p>Enter TAN Number , Deductor type: Company.</p>
+<p>Accept the window and then accept the main window.</p>
+<p>Now go to Accounts info in Gateway of Tally menu and create the following ledgers.</p>
+<div class="mt-3 dfx jcse gap-3">
+<div class="shaded">
+ <h3>1. Professional Fees</h3>
+<p>Under: Indirect Expenses</p>
+<p>Is TDS Applicable: Applicable</p>
+<p>Nature of Payment: New Category</p>
+<div class="shaded" style="background: rgb(217, 237, 255);">
+<h4>Professional & Technical Fees</h4>
+<p>With PAN: 10%</p>
+<p>Threshold Limit: 30,000</p>
+
+</div>
+
+</div>
+<div class="shaded">
+<h3>2. Creditor Party Name</h3>
+<p>Under: Sundry Creditor</p>
+<p>Is TDS Deductable: Yes</p>
+<p>Deductee Type: Company-resident</p>
+<p>Deduct TDS in Same voucher</p>
+
+<p>PAN/IT NO: ASDFG1234A</p>
+<div class="sub-note">
+  (replace with actual PAN No)
+</div>
+
+</div>
+<div class="shaded">
+  <H3>3. TDS</H3>
+<P>Under: Duties & Taxes</P>
+<P>Type of duty/Tax: TDS</P>
+<P>Nature of Payment: Professional & Technical Fees</P>
+</div>
+</div>
+      </div>
+      <div class="box mt-3">
+        <H3>Q28. How to make TDS entry?</H3>
+<P>Go to Accounting voucher and Press F7 [Journal] and select Professional Fees ledger and enter the amount.</P>
+<P>Now select the  Creditor Party Name and then select the TDS ledger</P>
+<P>Accept the voucher</P>
+<P>Now, go to Payment [F5] voucher and select the Creditor Party Name and enter the amount then choose cash or bank ledger and accept the voucher</P>
+<P>Again, on the Payment [F5] voucher and select the TDS ledger and enter the amount then choose cash or bank ledger and accept the voucher.</P>
+
+      </div>
       <div class="box mt-3"></div>
       <div class="box mt-3"></div>
       <div class="box mt-3"></div>
