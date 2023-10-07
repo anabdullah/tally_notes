@@ -104,7 +104,7 @@
         </div>
       </div>
 
-      
+
 
       <div class="wrap-right">
         <img
@@ -1062,184 +1062,200 @@
 
     </div>
 
-    <div class="dfx alc jcsb mt-3" >
-<div class="optional">
-  <h4>Alternative Units</h4>
-<p>1Carton = 40 LTR Oil</p>
-<p>Therefore, 3 Carton = 120 LTR</p>
-<p>Here we used two units, so we can use one as unit and another as alternative unit</p>
+    <div class="dfx alc jcsb mt-3">
+      <div class="optional">
+        <h4>Alternative Units</h4>
+        <p>1Carton = 40 LTR Oil</p>
+        <p>Therefore, 3 Carton = 120 LTR</p>
+        <p>Here we used two units, so we can use one as unit and another as alternative unit</p>
 
-</div>
-<div class="grid-box">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-<div class="grid-box">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
-<div class="grid-box">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
+      </div>
+      <div class="grid-box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="grid-box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+      <div class="grid-box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
     </div>
 
     <div class="box mt-3">
       <h3>Q29. Give an example of alternative unit.</h3>
-<p>Press F12 and navigate to Accts/Inventory info.</p>
-<p>Enable Use alternative units for stock items.</p>
-<p>On the Gateway of Tally menu, go to Inventory info. Go to Stock Item Option</p>
-<p>Create a Stock item such as Oil</p>
-<p>On the Unit field Press ALT+C and create a unit LTR then on the Alternative Unit field create Carton, where 1Carton = 40 LTR</p>
-<p>Fill the Quantity and rate as per stock item. Then accept it by pressing CTRL+A</p>
+      <p>Press F12 and navigate to Accts/Inventory info.</p>
+      <p>Enable Use alternative units for stock items.</p>
+      <p>On the Gateway of Tally menu, go to Inventory info. Go to Stock Item Option</p>
+      <p>Create a Stock item such as Oil</p>
+      <p>On the Unit field Press ALT+C and create a unit LTR then on the Alternative Unit field create Carton, where
+        1Carton = 40 LTR</p>
+      <p>Fill the Quantity and rate as per stock item. Then accept it by pressing CTRL+A</p>
 
     </div>
 
     <div class="shaded mt-3">
       <h1 style="text-align: center;">Payroll/ Salary Slip Configuration</h1>
-<p>Press F11 →Accounting Features →</p>
-<p>Maintain Payroll: Yes</p>
-<p>Maintain more than one payroll or cost category: Yes</p>
+      <p>Press F11 →Accounting Features →</p>
+      <p>Maintain Payroll: Yes</p>
+      <p>Maintain more than one payroll or cost category: Yes</p>
 
     </div>
 
-<div class="shaded dfx mt-3" style="background: white;">
-  <img width="80%" style="margin: auto;" src="https://images.unsplash.com/photo-1696662005023-c3a0196187c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Security">
-</div>
+    <div class="shaded dfx mt-3" style="background: white;">
+      <img width="80%" style="margin: auto;"
+        src="https://images.unsplash.com/photo-1696662005023-c3a0196187c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        alt="Security">
+    </div>
 
     <div class="box mt-3">
       <h3>Q30. Write the steps for a salary slip.</h3>
-<p>After configuring for payroll, go to Payroll info in gateway of tally menu.</p>
-<p>Go to Employee Categories, create Head office then accept it.</p>
-<p>In the Payroll info menu, go to Employee groups →Create→ Select Head office, on the name field type Account Department, Purchase Department, Sales Department etc. under primary.</p>
-<p>Then In the Payroll info menu, go to Employees→Create→ Select Head office, on the name field type the employee name such as: BISWAJIT DAIMARY, RANJIT HALOI etc. under Account Department, Purchase Department or Sales Department. Enter their details then accept</p>
-<p>Then In the Payroll info menu, go to Units →Create following units.</p>
+      <p>After configuring for payroll, go to Payroll info in gateway of tally menu.</p>
+      <p>Go to Employee Categories, create Head office then accept it.</p>
+      <p>In the Payroll info menu, go to Employee groups →Create→ Select Head office, on the name field type Account
+        Department, Purchase Department, Sales Department etc. under primary.</p>
+      <p>Then In the Payroll info menu, go to Employees→Create→ Select Head office, on the name field type the employee
+        name such as: BISWAJIT DAIMARY, RANJIT HALOI etc. under Account Department, Purchase Department or Sales
+        Department. Enter their details then accept</p>
+      <p>Then In the Payroll info menu, go to Units →Create following units.</p>
 
-<div class="shaded mt-3 dfx jcfb gap-3">
-  <div class="shaded">
-    <p>Type:</p>
-    <p>Symbol:</p>
-    <p>formal name:</p>
-    <p>Number of decimal places</p>
+      <div class="shaded mt-3 dfx jcfb gap-3">
+        <div class="shaded"  style="background: rgb(205, 227, 255);">
+          <p>Type:</p>
+          <p>Symbol:</p>
+          <p>formal name:</p>
+          <p>Number of decimal places</p>
 
-  </div>
-  <div class="shaded"></div>
-  <div class="shaded"></div>
-</div>
+        </div>
+        <div class="shaded" style="background: rgb(205, 227, 255);">
+          <p>Type:</p>
+          <p>Symbol:</p>
+          <p>formal name:</p>
+          <p>Number of decimal places</p>
+        </div>
+        <div class="shaded" style="background: rgb(205, 227, 255);">
+          <p>Type:</p>
+          <p>Symbol:</p>
+          <p>formal name:</p>
+          <p>Number of decimal places</p>
+        </div>
+      </div>
     </div>
     <div class="box mt-3"></div>
   </div>
