@@ -68,7 +68,9 @@
   border-radius:4px;
 }
 .dfx
-{display: flex;}
+{display: flex;
+  flex-wrap: wrap;
+}
 
 .gap-3{
   gap: 3vmin;
@@ -319,8 +321,14 @@ justify-content: space-between
   border-radius: 50%;
 }
 
+.ph-box{
+  background: rgb(241, 255, 240);
+  border: 1px solid green;
+}
 
-
+.ph-table tr td{
+text-align: center;
+}
 
 
 
