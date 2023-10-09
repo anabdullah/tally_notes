@@ -1236,18 +1236,18 @@
       <p>Then In the Payroll info menu, go to Units →Create following units.</p>
 
       <div class="shaded mt-3 dfx jcfb gap-3">
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Type</span>: Simple</p>
           <p><span class="title">Symbol</span>:HRS</p>
           <p><span class="title">Number of decimal places</span></p>
 
         </div>
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Type</span>: Simple</p>
           <p><span class="title">Symbol</span>: MINS</p>
           <p><span class="title">Number of decimal places</span></p>
         </div>
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Type</span>: Compound</p>
           <p><span class="title">First unit</span>: HRS</p>
           <p><span class="title">Conversion</span>: 60</p>
@@ -1257,19 +1257,19 @@
       <div class="mt-3"></div>
       <p>After creating units, In the Payroll info menu, go to attendance/Production Types →Create following </p>
       <div class="shaded mt-3 dfx jcfb gap-3">
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Name: </span>Absent</p>
           <p><span class="title">Under: </span>Primary</p>
           <p><span class="title">Attendance type: </span>Leave without pay</p>
           <p><span class="title">Period type: </span>Days</p>
         </div>
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Name: </span>Paid Leave</p>
           <p><span class="title">Under: </span>Primary</p>
           <p><span class="title">Attendance type: </span>Leave with pay</p>
           <p><span class="title">Period type: </span>Days</p>
         </div>
-        <div class="shaded" style="background: rgb(205, 227, 255);">
+        <div class="shaded sm-shaded" style="background: rgb(205, 227, 255);">
           <p><span class="title">Name: </span>Overtime</p>
           <p><span class="title">Under: </span>Primary</p>
           <p><span class="title">Attendance type: </span>Production</p>
